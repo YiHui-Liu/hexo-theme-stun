@@ -33,6 +33,10 @@ sidebar:
   categories: 分類
   tags: 標籤
   read_info: 你已閱讀了
+  card_announcement: 公告
+  card_newest_comments:
+    title: 最新評論
+    loading: 正在加載中
 
 # 社交連結
 social:
